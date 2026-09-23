@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yaizkoc
 - 👀 I’m interested in sofware
-- 🌱 I’m currently learning html,css and wordpress
 - 📫 How to reach me "yagiz190741@gmail.com"
 
 <!---
